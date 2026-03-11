@@ -1,0 +1,31 @@
+{
+  "spider": "https://fastly.jsdelivr.net/gh/FongMi/CatVodSpider@main/jar/custom_spider.jar",
+  "wallpaper": "https://bing.img.run/rand_uhd.php",
+  "sites": [
+    {
+      "key": "jable_js",
+      "name": "🔞 JableTV (GitHub直连)",
+      "type": 3,
+      "api": "https://fastly.jsdelivr.net/gh/你的用户名/你的仓库名@main/jable.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jable.tv"
+    }
+  ],
+  "lives": [
+    {
+      "name": "直播源",
+      "type": 0,
+      "url": "https://fastly.jsdelivr.net/gh/ssili126/tv@main/itvlist.txt",
+      "playerType": 1
+    }
+  ],
+  "rules": [
+    {
+      "name": "proxy",
+      "hosts": ["raw.githubusercontent.com", "googlevideo.com", "jable.tv"]
+    }
+  ]
+}
+

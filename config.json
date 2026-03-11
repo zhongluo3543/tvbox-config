@@ -6,7 +6,7 @@
       "key": "jable_js",
       "name": "🔞 JableTV (GitHub直连)",
       "type": 3,
-      "api": "https://fastly.jsdelivr.net/gh/你的用户名/你的仓库名@main/jable.js",
+      "api": "https://fastly.jsdelivr.net/gh/zhongluo3543/tvbox-config@main/jable.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
